@@ -41,5 +41,8 @@
     "comment": [
       "comment"
     ]
+  },
+  "devDependencies": {
+    "prop-types": "^15.8.1"
   }
 }
